@@ -2,7 +2,7 @@
 
 Este projeto foi desenvolvido como um desafio de análise de dados, onde transformei dados brutos de assinaturas em um dashboard executivo interativo. O objetivo foi analisar o desempenho de vendas, o mix de produtos e o impacto de descontos no ecossistema Xbox.
 
-![Screenshot do Dashboard](./dashboard_screenshot.png)
+![Screenshot do Dashboard](./dashboard_final.png)
 
 ## 📊 Principais Análises
 - **Performance de Receita:** Comparativo entre Faturamento Bruto e Líquido (identificando perdas por cupons).
